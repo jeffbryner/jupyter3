@@ -1,0 +1,3 @@
+configlib
+dotdict
+requests
