@@ -1,4 +1,4 @@
-# jupyter2
+# jupyter
 jupyter notebook docker container specifically supporting python 3
 
 Jupyter notebooks are awesome but sometimes getting your local python env in sync to work a jupyter notebook is challenging (looking at you mac OS)
